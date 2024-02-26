@@ -13,6 +13,14 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.naturalli.NaturalLogicAnnotations;
 import edu.stanford.nlp.util.CoreMap;
 
+import edu.stanford.nlp.coref.CorefCoreAnnotations;
+import edu.stanford.nlp.coref.data.CorefChain;
+import edu.stanford.nlp.coref.data.Mention;
+import edu.stanford.nlp.ling.CoreAnnotations;
+import edu.stanford.nlp.pipeline.Annotation;
+import edu.stanford.nlp.pipeline.StanfordCoreNLP;
+import edu.stanford.nlp.util.CoreMap;
+
 import java.util.Collection;
 import java.util.Properties;
 
@@ -41,9 +49,14 @@ public class Main {
         // set up pipeline properties
         Properties props = new Properties();
         // set the list of annotators to run
-        props.setProperty("annotators", "tokenize,pos,lemma,depparse,natlog,openie");
+        // coref for correference annotation
+        // go through triples and resolve corefferences
+        // wonder how I should have this done
+        props.setProperty("annotators", "tokenize,pos,lemma,ner,depparse,natlog,coref,openie");
         // set a property for an annotator, in this case the coref annotator is being set to use the neural algorithm
-        props.setProperty("coref.algorithm", "neural");
+        props.setProperty("ner.rulesOnly", "true"); // only use rules no statistics
+        props.setProperty("coref.algorithm", "statistical"); // only this or neural and this is a bit better
+        props.setProperty("openie.resolve_coref", "true"); // coref requirement is missing in error message
         // build pipeline
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
         // create a document object
@@ -51,6 +64,21 @@ public class Main {
         Annotation document = new Annotation(content);
         // annnotate the document
         pipeline.annotate(document);
+
+        /*
+        System.out.println("---");
+        System.out.println("coref chains");
+        for (CorefChain cc : document.get(CorefCoreAnnotations.CorefChainAnnotation.class).values()) {
+            System.out.println("\t" + cc);
+        }
+        for (CoreMap sentence : document.get(CoreAnnotations.SentencesAnnotation.class)) {
+            System.out.println("---");
+            System.out.println("mentions");
+            for (Mention m : sentence.get(CorefCoreAnnotations.CorefMentionsAnnotation.class)) {
+                System.out.println("\t" + m);
+            }
+        }
+        */
         // triples
         // need to do named entity recognition and disambiguation
         for (CoreMap sentence : document.get(CoreAnnotations.SentencesAnnotation.class)) {
@@ -65,6 +93,11 @@ public class Main {
                         triple.objectLemmaGloss());
             }
         }
+
+        //Map<Integer, CorefChain> corefChains = document.CorefChains();
+        //System.out.println("Example: coref chains for document");
+        //System.out.println(corefChains);
+        //System.out.println();
 
         // examples
 /*
