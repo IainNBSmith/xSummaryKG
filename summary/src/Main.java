@@ -41,9 +41,134 @@ public class Main {
                 triple.objectLemmaGloss().split("\\s").length <= nword);
     }
 
+    public static Boolean tripleMatcher(RelationTriple t1, RelationTriple t2) {
+        // check if the triples contain each other, in one direction
+        return (new String(t1.subjectLemmaGloss()).contains(t2.subjectLemmaGloss()) &&
+                new String(t1.relationLemmaGloss()).contains(t2.relationLemmaGloss()) &&
+                new String(t1.objectLemmaGloss()).contains(t2.objectLemmaGloss()));
+    }
+
+    public static void compareTripleSets(Collection<RelationTriple> tripInit, Collection<RelationTriple> tripSum) {
+        // so far so good: need to see how we compare odd strings and swapped subject object pairs
+        // compare directly if triples are matched, then print those that are not
+        /*
+        // check if the triples are there
+        for (RelationTriple triple : tripInit) {
+            System.out.println(triple.confidence + "\t" +
+                    triple.subjectLemmaGloss() + "\t" +
+                    triple.relationLemmaGloss() + "\t" +
+                    triple.objectLemmaGloss());
+        }
+
+        for (RelationTriple triple : tripSum) {
+            System.out.println(triple.confidence + "\t" +
+                    triple.subjectLemmaGloss() + "\t" +
+                    triple.relationLemmaGloss() + "\t" +
+                    triple.objectLemmaGloss());
+        }
+         */
+        for (RelationTriple tI : tripInit) {
+            for (RelationTriple tS : tripSum) {
+                if (tripleMatcher(tI, tS) || tripleMatcher(tS, tI)) {
+                    System.out.println("matched");
+                    System.out.println("\t" + tI.subjectLemmaGloss() + " // " + tS.subjectLemmaGloss());
+                    System.out.println("\t" + tI.relationLemmaGloss() + " // " + tS.relationLemmaGloss());
+                    System.out.println("\t" + tI.objectLemmaGloss() + " // " + tS.objectLemmaGloss());
+                }
+            }
+        }
+
+        for (RelationTriple triple : tripInit) {
+            System.out.println("Original" + "\t" +
+                    triple.subjectLemmaGloss() + "\t" +
+                    triple.relationLemmaGloss() + "\t" +
+                    triple.objectLemmaGloss());
+        }
+
+        for (RelationTriple triple : tripSum) {
+            System.out.println("Summary" + "\t" +
+                    triple.subjectLemmaGloss() + "\t" +
+                    triple.relationLemmaGloss() + "\t" +
+                    triple.objectLemmaGloss());
+        }
+
+    }
+
+    public static Collection<RelationTriple> extractRelations(String docName) {
+        // get all the relations in a valid format in one collection
+        String content = "default"; // working so far
+        // requires exception handling here
+        try {
+            content = new String(Files.readString(Paths.get("../Data/" + docName), Charset.defaultCharset()));
+            System.out.println(content);
+        }
+        catch(IOException e) {
+            e.printStackTrace();
+            System.exit(1);
+        }
+        // set up pipeline properties
+        Properties props = new Properties();
+        props.setProperty("annotators", "tokenize,pos,lemma,ner,depparse,natlog,coref,openie");
+        props.setProperty("ner.rulesOnly", "true"); // only use rules no statistics
+        props.setProperty("coref.algorithm", "statistical"); // only this or neural and this is a bit better
+        props.setProperty("openie.resolve_coref", "true"); // coref requirement is missing in error message
+
+        StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+        // create a document object
+        // CoreDocument document = new CoreDocument(content);
+        Annotation document = new Annotation(content);
+        // annnotate the document
+        pipeline.annotate(document);
+
+        Collection<RelationTriple> finalTriples = new ArrayList<RelationTriple>();
+        for (CoreMap sentence : document.get(CoreAnnotations.SentencesAnnotation.class)) {
+            // Get the OpenIE triples for the sentence
+            Collection<RelationTriple> triples =
+                    sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
+            // Print the triples
+            for (RelationTriple triple : triples) {
+                Boolean same = false;
+                Boolean trimmed = false;
+                if (checkTripleValid(triple)) {
+                    for (RelationTriple otriple : triples) {
+                        if (same) {
+                            break;
+                        }
+                        if (checkTripleValid(otriple) && otriple != triple) {
+                            if (new String(otriple.subjectLemmaGloss()).contains(triple.subjectLemmaGloss()) &&
+                                    new String(otriple.relationLemmaGloss()).contains(triple.relationLemmaGloss()) &&
+                                    new String(otriple.objectLemmaGloss()).contains(triple.objectLemmaGloss())) {
+                                same = true;
+                            }
+                        }
+                    }
+                } else {
+                    //System.out.println("trimmed");
+                    trimmed = true;
+                }
+                //if (same) {
+                //    System.out.println("matched");
+                //}
+                if (!trimmed && !same) {
+                    // put it into final file, for now just count
+                    finalTriples.add(triple);
+                }
+            }
+        }
+        return finalTriples;
+    }
+
     //public static String text = "Joe Smith was born in California. In 2017, he went to Paris, France in the summer. His flight left at 3:00pm on July 10th, 2017. After eating some escargot for the first time, Joe said, \"That was delicious!\" He sent a postcard to his sister Jane Smith. After hearing about Joe's trip, Jane decided she might go to France one day.";
     // add just extracting entity relations
     public static void main(String[] args) {
+        Collection<RelationTriple> triplesInit = extractRelations("dailyshow.txt");
+        Collection<RelationTriple> triplesSum = extractRelations("dailyshow-gpt.txt");
+
+        compareTripleSets(triplesInit, triplesSum);
+    }
+}
+
+        /*
         String content = "default"; // working so far
         // requires exception handling here
         try {
@@ -87,6 +212,7 @@ public class Main {
             }
         }
         */
+        /*
         // triples
         // need to do named entity recognition and disambiguation
         int ncount = 0;
@@ -130,7 +256,7 @@ public class Main {
             }
         System.out.println(ncount);
         }
-
+        */
         //Map<Integer, CorefChain> corefChains = document.CorefChains();
         //System.out.println("Example: coref chains for document");
         //System.out.println(corefChains);
@@ -227,4 +353,3 @@ public class Main {
         System.out.println(quote.canonicalSpeaker().get());
         System.out.println();
 */
-    }
