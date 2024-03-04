@@ -33,6 +33,14 @@ import java.io.*;
 
 public class Main {
 
+
+    public static Boolean checkTripleValid(RelationTriple triple) {
+        // check that subject and object are both <= 10 characters
+        int nword = 10;
+        return (triple.subjectLemmaGloss().split("\\s").length <= nword &&
+                triple.objectLemmaGloss().split("\\s").length <= nword);
+    }
+
     //public static String text = "Joe Smith was born in California. In 2017, he went to Paris, France in the summer. His flight left at 3:00pm on July 10th, 2017. After eating some escargot for the first time, Joe said, \"That was delicious!\" He sent a postcard to his sister Jane Smith. After hearing about Joe's trip, Jane decided she might go to France one day.";
     // add just extracting entity relations
     public static void main(String[] args) {
@@ -81,6 +89,7 @@ public class Main {
         */
         // triples
         // need to do named entity recognition and disambiguation
+        int ncount = 0;
         for (CoreMap sentence : document.get(CoreAnnotations.SentencesAnnotation.class)) {
             // Get the OpenIE triples for the sentence
             Collection<RelationTriple> triples =
@@ -91,7 +100,35 @@ public class Main {
                         triple.subjectLemmaGloss() + "\t" +
                         triple.relationLemmaGloss() + "\t" +
                         triple.objectLemmaGloss());
+                Boolean same = false;
+                Boolean trimmed = false;
+                if (checkTripleValid(triple)) {
+                    for (RelationTriple otriple : triples) {
+                        if (same) {
+                            break;
+                        }
+                        if (checkTripleValid(otriple) && otriple != triple) {
+                            if (new String(otriple.subjectLemmaGloss()).contains(triple.subjectLemmaGloss()) &&
+                                    new String(otriple.relationLemmaGloss()).contains(triple.relationLemmaGloss()) &&
+                                    new String(otriple.objectLemmaGloss()).contains(triple.objectLemmaGloss())) {
+                                same = true;
+                            }
+                        }
+                    }
+                } else {
+                    System.out.println("trimmed");
+                    trimmed = true;
+                }
+                if (same) {
+                    System.out.println("matched");
+                }
+                if (!trimmed && !same) {
+                 // put it into final file, for now just count
+                 ncount += 1;
+                }
+                }
             }
+        System.out.println(ncount);
         }
 
         //Map<Integer, CorefChain> corefChains = document.CorefChains();
@@ -191,5 +228,3 @@ public class Main {
         System.out.println();
 */
     }
-
-}
