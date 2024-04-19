@@ -1,0 +1,123 @@
+Overall, Jon Stewart's comeback to "The Daily Show" represents a significant moment for both the show and the broader cultural and political landscape. His unique blend of humor, intellect, and social commentary is poised to resonate with audiences once again, offering much-needed clarity and perspective in an age of uncertainty and division.
+Original Relation: Jon Stewart -- be come after --> nearly decade
+Original Relation: Jon Stewart -- be come back after --> nearly decade
+Original Relation: Jon Stewart -- be come back to --> Daily Show
+Original Relation: Jon Stewart -- be come to --> Daily Show
+Original Relation: Paramount Global -- announce at_time --> Wednesday
+Original Relation: Stewart -- will remain as --> part-time host
+Original Relation: Stewart -- will remain with --> rotate host throughout rest of week
+Original Relation: Stewart -- will remain throughout --> 2024 election cycle
+Original Relation: Jon Stewart -- will serve for --> episode
+Original Relation: Jon Stewart -- will also serve for --> episode
+Original Relation: Stewart -- be give monday slot accord to --> network
+Original Relation: monday -- be day for --> show during week
+Original Relation: monday -- be most-watched day for --> show during week
+Original Relation: Stewart -- be give monday slot --> most-watched day for show during week
+Original Relation: Chris McCarthy -- president of --> Paramount Media Networks
+Original Relation: empty rhetoric -- provide --> much-needed clarity
+Original Relation: empty rhetoric -- provide clarity with --> Jon Stewart brilliant wit
+Original Relation: empty rhetoric -- provide clarity with --> Jon Stewart wit
+Original Relation: perfect person -- be in --> we age of staggering hypocrisy
+Original Relation: Jon -- puncture --> empty rhetoric
+Original Relation: segment -- frequently go --> viral
+Original Relation: segment -- frequently go for --> day
+Original Relation: interview clip -- frequently go --> interview clip and segment air
+Original Relation: Stewart -- headline --> satirical talk show
+Original Relation: show -- win --> 24 emmy under Stewart
+Original Relation: Daily Show -- have --> about 1.3 million viewer on average
+Original Relation: Stewart -- during --> last year
+Original Relation: Stewart -- pursue --> career opportunity include stint with Jon Stewart social commentary talk
+Original Relation: Problem -- be with --> Jon Stewart
+Original Relation: stint -- be with --> he own social commentary talk
+Original Relation: Jon Stewart -- tear over --> 9/11 victim fund
+Original Relation: Jon Stewart -- tear into --> Congress
+Original Relation: viewer -- fewer --> about 70 percent
+Original Relation: Noah -- have viewer during --> Jon Stewart season
+Original Relation: Noah -- have --> about 70 percent fewer viewer than Stewart
+Original Relation: Noah -- have viewer during --> Jon Stewart last season
+Original Relation: Comedy Central -- fill --> void include charlamagne tha God
+Original Relation: Hasan Minhaj -- be --> comedian
+Original Relation: Stewart -- headline --> show
+Original Relation: landscape -- be --> much different
+Original Relation: late-night comedy show -- be generally struggle with --> revenue
+Original Relation: late-night comedy show -- be struggle with --> revenue
+Summary Relation: Jon Stewart -- return to --> Daily Show
+Summary Relation: Jon Stewart -- return after --> nearly decade
+Summary Relation: it -- be --> indeed development
+Summary Relation: it -- be --> indeed significant development
+Summary Relation: golden era -- characterize by --> impactful satire
+Summary Relation: host -- golden era for --> show
+Summary Relation: host -- characterize by --> impactful satire
+Summary Relation: Paramount Global -- have --> decision bring particularly during 2024 election cycle
+Summary Relation: Stewart -- have --> return as part-time host couple with role as executive producer
+Summary Relation: show -- have --> appeal
+Summary Relation: Jon Stewart 's reputation -- be --> expect
+Summary Relation: Jon Stewart 's reputation -- draw --> considerable attention
+Summary Relation: engagement -- especially give --> current climate of political polarization
+Summary Relation: Jon Stewart 's reputation -- draw --> engagement
+Summary Relation: engagement -- especially give --> current climate of polarization
+Summary Relation: Monday slot -- align with --> viewership trend
+Summary Relation: Stewart -- have --> established rapport
+Summary Relation: Comedy Central -- leverage --> Stewart 's established rapport
+Summary Relation: Comedy Central -- aim --> capitalize
+Summary Relation: viewer preference -- increase competition from --> streaming
+Summary Relation: late-night comedy -- have --> relevance
+Summary Relation: Stewart -- have --> return
+Summary Relation: Jon Stewart 's influence -- be undeniable --> evidence by success of former correspondent
+Summary Relation: Jon Stewart 's influence -- be --> undeniable
+Summary Relation: Jon Stewart 's influence -- evidence by --> success of former correspondent
+Summary Relation: Stephen Colbert -- be --> John Oliver
+Summary Relation: Jon Stewart 's comeback -- overall represent --> significant moment for show
+Summary Relation: Jon Stewart -- have --> comeback to Daily Show
+Summary Relation: Jon Stewart 's blend -- be poise --> resonate with audience once again
+Summary Relation: Jon Stewart 's blend -- be poise --> resonate once again
+Summary Relation: Jon Stewart 's blend -- be poise --> resonate again
+Summary Relation: Jon Stewart 's unique blend -- be poise --> resonate again
+Summary Relation: Jon Stewart 's unique blend -- resonate once again with --> audience
+Summary Relation: Jon Stewart 's unique blend -- be poise --> resonate with audience again
+Summary Relation: Jon Stewart 's blend -- resonate with --> audience
+Summary Relation: Jon Stewart 's unique blend -- be poise --> resonate with audience once again
+Summary Relation: Jon Stewart 's unique blend -- be --> poise
+Summary Relation: Jon Stewart 's blend -- resonate once again with --> audience
+Summary Relation: Jon Stewart 's blend -- resonate again with --> audience
+Summary Relation: Jon Stewart 's unique blend -- be poise --> resonate once again
+Summary Relation: Jon Stewart 's blend -- be --> poise
+Summary Relation: Jon Stewart 's unique blend -- resonate with --> audience
+Summary Relation: Jon Stewart 's unique blend -- resonate again with --> audience
+Summary Relation: Jon Stewart 's blend -- be poise --> resonate with audience again
+Removed Relation: Chris McCarthy -- president of --> Paramount Media Networks
+Removed Relation: empty rhetoric -- provide --> much-needed clarity
+Removed Relation: perfect person -- be in --> we age of staggering hypocrisy
+Removed Relation: segment -- frequently go --> viral
+Removed Relation: segment -- frequently go for --> day
+Removed Relation: interview clip -- frequently go --> interview clip and segment air
+Removed Relation: show -- win --> 24 emmy under Stewart
+Removed Relation: stint -- be with --> he own social commentary talk
+Removed Relation: viewer -- fewer --> about 70 percent
+Removed Relation: Comedy Central -- fill --> void include charlamagne tha God
+Removed Relation: Hasan Minhaj -- be --> comedian
+Removed Relation: landscape -- be --> much different
+Added Relation: golden era -- characterize by --> impactful satire
+Added Relation: engagement -- especially give --> current climate of political polarization
+Added Relation: engagement -- especially give --> current climate of polarization
+Added Relation: Monday slot -- align with --> viewership trend
+Added Relation: Comedy Central -- aim --> capitalize
+Added Relation: viewer preference -- increase competition from --> streaming
+Added Relation: Stephen Colbert -- be --> John Oliver
+Added Relation: Jon Stewart 's blend -- be poise --> resonate with audience once again
+Added Relation: Jon Stewart 's blend -- be poise --> resonate once again
+Added Relation: Jon Stewart 's blend -- be poise --> resonate again
+Added Relation: Jon Stewart 's unique blend -- be poise --> resonate again
+Added Relation: Jon Stewart 's unique blend -- resonate once again with --> audience
+Added Relation: Jon Stewart 's unique blend -- be poise --> resonate with audience again
+Added Relation: Jon Stewart 's blend -- resonate with --> audience
+Added Relation: Jon Stewart 's unique blend -- be poise --> resonate with audience once again
+Added Relation: Jon Stewart 's blend -- resonate once again with --> audience
+Added Relation: Jon Stewart 's blend -- resonate again with --> audience
+Added Relation: Jon Stewart 's unique blend -- be poise --> resonate once again
+Added Relation: Jon Stewart 's unique blend -- resonate with --> audience
+Added Relation: Jon Stewart 's unique blend -- resonate again with --> audience
+Added Relation: Jon Stewart 's blend -- be poise --> resonate with audience again
+Precision = 0.6818181818181818
+Recall = 0.7142857142857143
+Relation Ratio = 0.9545454545454546

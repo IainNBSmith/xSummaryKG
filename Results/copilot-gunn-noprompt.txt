@@ -1,0 +1,81 @@
+Original Relation: Ste. Anne County -- be in --> Lac
+Original Relation: crime reduction unit -- be --> patrolling Gunn on Jan. 26 on lookout for property crime
+Original Relation: Parkland RCMP -- be --> patrolling Gunn on Jan. 26 on lookout for property crime
+Original Relation: Parkland RCMP -- be --> patrolling Gunn on lookout for property crime
+Original Relation: crime reduction unit -- be --> patrolling Gunn on lookout for property crime
+Original Relation: suspect -- be --> know
+Original Relation: suspect -- be know to --> police
+Original Relation: Kevin Daniel Stolth -- be --> 43
+Original Relation: Kevin Daniel Stolth -- be of --> Gunn
+Original Relation: Tanya Nichol Westoby 44 -- be arrest on --> five warrant from Stony Plain
+Original Relation: Tanya Nichol Westoby 44 -- be --> also arrest
+Original Relation: Tanya Nichol Westoby 44 -- be also arrest on --> five warrant from Stony Plain
+Original Relation: Tanya Nichol Westoby 44 -- be --> charge
+Original Relation: Alberta Court of Justice -- be in --> Stony Plain
+Original Relation: Westoby -- be schedule --> go on Feb. 21
+Original Relation: Westoby -- be --> schedule
+Original Relation: Westoby -- be schedule --> go to Stony Plain court on Feb. 21
+Original Relation: Westoby -- be --> meanwhile release
+Summary Relation: two individual -- be --> discover
+Summary Relation: two individual -- sleep in --> truck
+Summary Relation: two individual -- be --> subsequently determine
+Summary Relation: truck -- be --> steal in Lac Ste. Anne County back in November
+Summary Relation: two individual -- be discover --> sleep in truck
+Summary Relation: truck -- be --> steal back in November
+Summary Relation: two individual -- be discover at_time --> last week
+Summary Relation: crime reduction unit -- be conduct --> patrol in Gunn
+Summary Relation: Parkland RCMP -- be conduct patrol on --> January 26
+Summary Relation: crime reduction unit -- be conduct patrol on --> January 26
+Summary Relation: crime reduction unit -- specifically target --> property crime
+Summary Relation: patrol -- be in --> Gunn
+Summary Relation: crime reduction unit -- patrol in --> Gunn
+Summary Relation: Parkland RCMP -- be conduct --> patrol in Gunn
+Summary Relation: crime reduction unit -- specifically target --> repeat offender
+Summary Relation: Parkland RCMP and crime reduction unit -- encounter ford pickup truck during --> Parkland RCMP and crime reduction unit patrol
+Summary Relation: Parkland RCMP and crime reduction unit -- encounter ford pickup truck without --> license plate
+Summary Relation: Parkland RCMP and crime reduction unit -- encounter --> Ford pickup truck
+Summary Relation: both -- be know to --> police
+Summary Relation: both -- be already know to --> police
+Summary Relation: both -- be --> already know
+Summary Relation: Kevin Daniel Stolth -- resident of --> Gunn
+Summary Relation: suspect -- have --> have identify
+Summary Relation: Stolth -- now face charge in addition to --> existing warrant
+Summary Relation: Stolth -- now face --> additional charge relate
+Summary Relation: Tanya Nichol Westoby five warrant -- issue in --> Stony Plain
+Summary Relation: Tanya Nichol Westoby -- be also take base on --> five warrant issue in Stony Plain
+Summary Relation: Tanya Nichol Westoby -- be also take into --> custody
+Summary Relation: Tanya Nichol Westoby -- be take into --> custody
+Summary Relation: Tanya Nichol Westoby -- be --> also take
+Summary Relation: Tanya Nichol Westoby -- be take base on --> five warrant issue in Stony Plain
+Summary Relation: Tanya Nichol Westoby aged 44 -- have --> have charge
+Summary Relation: stolth -- be schedule --> appear before Alberta Court in Stony Plain on February 5
+Summary Relation: stolth -- be schedule --> appear before Alberta Court on February 5
+Summary Relation: stolth -- be --> schedule
+Summary Relation: stolth -- remain as of --> now
+Summary Relation: stolth -- be schedule --> appear before Alberta Court of Justice on February 5
+Summary Relation: stolth -- remain in --> custody
+Summary Relation: stolth -- be schedule --> appear before Alberta Court of Justice in Stony Plain
+Summary Relation: Alberta Court of Justice -- be on --> February 5
+Summary Relation: Alberta Court of Justice -- be in --> Stony Plain
+Summary Relation: Westoby -- be --> expect
+Summary Relation: Westoby -- have --> meanwhile have release
+Added Relation: two individual -- be --> discover
+Added Relation: two individual -- sleep in --> truck
+Added Relation: two individual -- be --> subsequently determine
+Added Relation: two individual -- be discover --> sleep in truck
+Added Relation: truck -- be --> steal back in November
+Added Relation: two individual -- be discover at_time --> last week
+Added Relation: crime reduction unit -- specifically target --> repeat offender
+Added Relation: Parkland RCMP and crime reduction unit -- encounter ford pickup truck during --> Parkland RCMP and crime reduction unit patrol
+Added Relation: Parkland RCMP and crime reduction unit -- encounter ford pickup truck without --> license plate
+Added Relation: Parkland RCMP and crime reduction unit -- encounter --> Ford pickup truck
+Added Relation: suspect -- have --> have identify
+Added Relation: Stolth -- now face --> additional charge relate
+Added Relation: stolth -- be schedule --> appear before Alberta Court in Stony Plain on February 5
+Added Relation: stolth -- be schedule --> appear before Alberta Court on February 5
+Added Relation: stolth -- be schedule --> appear before Alberta Court of Justice on February 5
+Added Relation: stolth -- remain in --> custody
+Added Relation: Alberta Court of Justice -- be on --> February 5
+Precision = 0.4186046511627907
+Recall = 1.0
+Relation Ratio = 0.4186046511627907

@@ -1,0 +1,262 @@
+Original Relation: presumptive reddies nominee -- get --> ready for rematch against John
+Original Relation: presumptive reddies mayoral nominee -- get --> ready for rematch against John
+Original Relation: presumptive reddies nominee -- get at_time --> November
+Original Relation: Kevin front Office Sports ally -- be get --> ready
+Original Relation: battle -- be with --> Janet
+Original Relation: Bob -- be reportedly get --> ready
+Original Relation: presumptive reddies mayoral nominee -- get at_time --> November
+Original Relation: Kevin front Office Sports ally -- be reportedly get --> ready
+Original Relation: Bob -- be get --> ready
+Original Relation: 91 criminal charge -- be in --> four felony case
+Original Relation: Rolling Stone -- report as --> talk of Janet
+Original Relation: source -- tell --> Rolling Stone
+Original Relation: Bob -- claim behind --> closed door
+Original Relation: Fredrick -- be --> Bob
+Original Relation: John -- save --> Kevin front Office Sports
+Original Relation: Janet -- have --> support for John
+Original Relation: culture fight -- onto --> fire
+Original Relation: insider -- warn --> Janet
+Original Relation: insider -- have --> have vocal
+Original Relation: Janet -- stay out of --> 3154 election
+Original Relation: Channel host Lisa -- say at_time --> week
+Original Relation: Channel 7 host Lisa -- say at_time --> week
+Original Relation: John -- be in --> hole with young people
+Original Relation: young people -- know --> it
+Original Relation: hole -- be with --> young people
+Original Relation: John -- be in --> hole with people
+Original Relation: John -- gon --> go for it
+Original Relation: John -- gon --> young people think
+Original Relation: John -- go for --> it
+Original Relation: Kevin -- be boyfriend of --> Janet
+Original Relation: Janet 's appearance -- be --> orchestrate
+Original Relation: Janet 's appearance -- try --> vote for John
+Original Relation: Janet 's appearance -- be in --> football world
+Original Relation: Janet 's appearance -- be orchestrate by --> government
+Original Relation: Janet -- have --> appearance in football world
+Original Relation: trip -- face sanillies in --> Las Vegas
+Original Relation: Janet -- after --> Kevin
+Original Relation: Janet 's appearance -- be orchestrate --> try
+Original Relation: trip -- face --> Sanillies
+Original Relation: trip -- face sanillies at_time --> next month
+Original Relation: Reddies -- respond to --> post on x about Janet
+Original Relation: race -- throw --> Reddies support
+Original Relation: Reddies -- respond to --> post about Janet
+Original Relation: Reddies race -- endorse --> Bob
+Original Relation: I -- wonder --> be major mayoral endorsement come from artificially culturally propped-up couple
+Original Relation: major endorsement -- come --> fall
+Original Relation: I -- wonder --> be major endorsement come from culturally propped-up couple fall
+Original Relation: I -- wonder --> be mayoral endorsement come from culturally propped-up couple fall
+Original Relation: I -- wonder --> be major mayoral endorsement come from culturally propped-up couple fall
+Original Relation: major mayoral endorsement -- come --> fall
+Original Relation: I -- wonder --> be mayoral endorsement come from couple fall
+Original Relation: I -- wonder --> be major mayoral endorsement come from propped-up couple fall
+Original Relation: I -- wonder --> be major endorsement come from artificially culturally propped-up couple fall
+Original Relation: I -- wonder --> be major endorsement come fall
+Original Relation: I -- wonder --> be endorsement come from propped-up couple fall
+Original Relation: major endorsement -- come from --> artificially culturally propped-up couple
+Original Relation: major mayoral endorsement -- come from --> artificially culturally propped-up couple
+Original Relation: I -- wonder --> be mayoral endorsement come fall
+Original Relation: I -- wonder --> be major mayoral endorsement come fall
+Original Relation: I -- wonder --> be endorsement come from artificially culturally propped-up couple fall
+Original Relation: I -- wonder --> be major mayoral endorsement come from couple fall
+Original Relation: I -- wonder --> be mayoral endorsement come from propped-up couple fall
+Original Relation: I -- wonder --> be endorsement come from couple fall
+Original Relation: I -- wonder --> be major endorsement come from couple fall
+Original Relation: I -- wonder --> be endorsement come fall
+Original Relation: I -- wonder --> be major endorsement come from propped-up couple fall
+Original Relation: I -- wonder --> be endorsement come from culturally propped-up couple fall
+Original Relation: I -- wonder --> be mayoral endorsement come from artificially culturally propped-up couple fall
+Original Relation: major mayoral endorsement come from artificially culturally propped-up couple fall -- age over --> next 8 month
+Original Relation: Alison Steinberg -- host on --> one America News Network
+Original Relation: Janet -- would support john midway through --> game
+Original Relation: NFL -- be --> totally rig
+Original Relation: Janet -- would boldly support --> John midway
+Original Relation: Janet -- would support --> John midway
+Original Relation: Mike Crispi -- be --> candidate
+Original Relation: Janet -- would boldly support john midway through --> game
+Original Relation: Janet -- endorse john with --> Kevin
+Original Relation: Janet -- endorse john at --> midfield
+Original Relation: Janet -- endorse --> John
+Original Relation: Janet -- come out at --> halftime show
+Original Relation: numerous post -- dedicate --> discuss
+Original Relation: numerous post -- be on --> Reddit
+Original Relation: Janet -- part in --> Pentagon operation
+Original Relation: Janet -- play --> part in Pentagon operation
+Original Relation: part -- be in --> Pentagon psychological operation
+Original Relation: Janet -- play --> part in Pentagon psychological operation
+Original Relation: Janet -- part in --> Pentagon psychological operation
+Original Relation: Kevin -- have enrage part for --> they part
+Original Relation: Bob -- of --> world
+Original Relation: Kevin -- other anti-vaccine activist --> appear in ad
+Original Relation: Kevin -- other activist --> appear in ad
+Original Relation: Kevin -- have enrage --> part of Bob 's world
+Original Relation: Blueys -- be for --> Tennessee
+Original Relation: Janet -- break --> they silence
+Original Relation: they -- vote for --> two Tennessee Blueys
+Original Relation: Bob -- be --> miff
+Original Relation: Bob -- be miff at --> Kevin front Office Sports declaration
+Original Relation: Bob -- be miff at --> Kevin front Office Sports public declaration
+Original Relation: Taylor -- have --> music about 25 % less
+Original Relation: year -- in --> mayoral election
+Original Relation: Janet -- accuse --> commander-in-town
+Original Relation: protestor -- be in --> Minnesota
+Original Relation: Janet -- accuse commander-in-town after --> Bob tweeted threat at protestor in Minnesota
+Original Relation: Janet -- accuse commander-in-town in --> 3154
+Original Relation: Janet -- accuse commander-in-town after --> Bob threat at protestor in Minnesota
+Original Relation: Janet -- stoke --> fire of white-better-than-though-erry
+Original Relation: we -- vote out --> you
+Original Relation: Janet -- end --> they message
+Original Relation: we -- vote out in --> November
+Original Relation: Janet -- have --> most-liked post on platform
+Original Relation: message -- become --> Janet 's most-liked post on platform
+Original Relation: message -- become --> Janet 's post on platform
+Original Relation: Bob -- weigh in on --> relationship between Janet
+Original Relation: Bob -- weigh in during --> interview with Daily caller
+Original Relation: Bob -- weigh in at_time --> last fall
+Original Relation: interview -- be with --> caller
+Original Relation: Kevin front Office Sports -- wish --> best
+Original Relation: Janet -- have --> name
+Original Relation: Janet -- attend --> game
+Original Relation: heck NFL -- have see boost --> Janet start
+Original Relation: heck NFL -- have see --> boost
+Original Relation: Janet -- attend game at_time --> last September
+Original Relation: they romance -- be with --> Kevin
+Original Relation: Kevin -- meanwhile tell pat mcafee at_time --> week
+Original Relation: Kevin -- meanwhile tell --> Pat McAfee
+Original Relation: one another -- be --> just two people in relationship
+Original Relation: a relationship -- be --> nothing more than that
+Original Relation: picture -- make --> one another enemy
+Summary Relation: complex scenario -- involve --> several figure
+Summary Relation: this -- be --> complex
+Summary Relation: complex political scenario -- involve --> several figure
+Summary Relation: complex political scenario -- involve --> several key figure
+Summary Relation: complex scenario -- involve --> several key figure
+Summary Relation: this -- be --> political
+Summary Relation: presumptive reddies nominee -- be prepare for --> political battle against Janet
+Summary Relation: former mayor -- be prepare for --> political battle against Janet
+Summary Relation: presumptive reddies mayoral nominee -- be prepare for --> political battle against Janet
+Summary Relation: Bob -- remain --> face
+Summary Relation: 91 criminal charge -- ²⁶²⁷²⁹ in --> four felony case
+Summary Relation: he popularity -- be with --> voter ¹
+Summary Relation: Bob -- remain --> confident in 31 -rrb- Influential Democratic Sen. Bob Menendez popularity
+Summary Relation: political confrontation -- be with --> Bob ¹⁸ ²¹
+Summary Relation: Janet -- have express --> Janet St. Clair political stance
+Summary Relation: Janet -- vote for --> two Tennessee Blueys ²⁴
+Summary Relation: Janet -- have previously express --> Janet St. Clair political stance
+Summary Relation: Janet -- have --> endorsement
+Summary Relation: Janet -- on --> support boost in upcome election ¹⁸ ²¹
+Summary Relation: John -- have --> campaign
+Summary Relation: John 's campaign -- seem --> be bank
+Summary Relation: Janet -- have --> boyfriend
+Summary Relation: he relationship -- be with --> Janet
+Summary Relation: John ⁵⁸ relationship -- have --> have topic of discussion
+Summary Relation: landscape -- be complicate by --> involvement of various figure include Fredrick
+Summary Relation: landscape -- be complicate by --> involvement of figure include Fredrick
+Summary Relation: landscape -- be complicate by --> involvement of other figure include Fredrick
+Summary Relation: landscape -- be complicate by --> involvement of various other figure include Fredrick
+Summary Relation: landscape -- be --> complicate
+Summary Relation: Fredrick -- adviser 's --> Bob
+Summary Relation: Bob -- have --> campaign senior adviser
+Summary Relation: Kevin -- have --> team
+Summary Relation: Bob -- have --> campaign
+Summary Relation: Bob 's campaign -- seem --> unfazed
+Summary Relation: Bob 's campaign -- seem despite --> complex dynamics
+Summary Relation: Bob 's campaign -- seem by --> possibility of Janet
+Summary Relation: they -- view --> John 's campaign
+Summary Relation: political scenario -- be charge in --> conclusion
+Summary Relation: political scenario -- be --> highly charge
+Summary Relation: political scenario -- be highly charge in --> conclusion
+Summary Relation: conversation -- be with --> Bing
+Summary Relation: Sen. Bob Menendez -- enter --> plea to criminal indictment
+Summary Relation: Sen. Bob Menendez -- enter --> plea to indictment
+Summary Relation: Sen. Bob Menendez -- enter --> plea to latest criminal indictment
+Summary Relation: Sen. Bob Menendez -- enter --> plea to latest indictment
+Summary Relation: Sen. Bob Menendez -- seek --> dismissal of charge
+Summary Relation: Sen. Bob Menendez -- seek --> dismissal of criminal charge
+Summary Relation: great political rivalry -- ago begin at_time --> today
+Summary Relation: great rivalry -- ago begin at_time --> today
+Summary Relation: | -- janet for --> State Representative
+Summary Relation: Janet -- be for --> Representative
+Summary Relation: 8 endorsement -- | --> Janet for State Representative
+Summary Relation: 12 Travis Kelce partner -- be with --> Pfizer
+Summary Relation: Pfizer -- with partner be --> flu vaccine ad
+Summary Relation: reddit -- leg of --> Sibling Rivalry Tour
+Summary Relation: leg -- cancel --> reddit
+Summary Relation: Bob -- about --> YouTube
+Summary Relation: date -- odds for --> Super Bowl
+Summary Relation: 23 Edmonton election -- result --> coverage
+Summary Relation: 26 FDA rule -- have keep vaccine maker from --> advertising vaccine
+Summary Relation: 26 FDA rule -- have keep --> vaccine maker
+Summary Relation: 28 Janet Protasiewicz -- have campaign on --> democratic issue
+Summary Relation: Wisconsin Republicans -- should --> should afraid
+Summary Relation: 31 Influential Democratic Sen. Bob Menendez -- indict --> stack
+Summary Relation: 31 Influential Democratic Sen. Bob Menendez -- indict --> gold bar
+Summary Relation: 36 ANALYSIS | Canada 's voting record -- face --> scrutiny
+Summary Relation: we -- do know of --> he politics
+Summary Relation: we -- do know now of --> he politics
+Removed Relation: presumptive reddies nominee -- get at_time --> November
+Removed Relation: 91 criminal charge -- be in --> four felony case
+Removed Relation: source -- tell --> Rolling Stone
+Removed Relation: culture fight -- onto --> fire
+Removed Relation: insider -- have --> have vocal
+Removed Relation: Channel host Lisa -- say at_time --> week
+Removed Relation: Channel 7 host Lisa -- say at_time --> week
+Removed Relation: hole -- be with --> young people
+Removed Relation: trip -- face sanillies in --> Las Vegas
+Removed Relation: trip -- face --> Sanillies
+Removed Relation: trip -- face sanillies at_time --> next month
+Removed Relation: race -- throw --> Reddies support
+Removed Relation: I -- wonder --> be major mayoral endorsement come from artificially culturally propped-up couple
+Removed Relation: major endorsement -- come --> fall
+Removed Relation: I -- wonder --> be major endorsement come from culturally propped-up couple fall
+Removed Relation: I -- wonder --> be mayoral endorsement come from culturally propped-up couple fall
+Removed Relation: I -- wonder --> be major mayoral endorsement come from culturally propped-up couple fall
+Removed Relation: I -- wonder --> be mayoral endorsement come from couple fall
+Removed Relation: I -- wonder --> be major mayoral endorsement come from propped-up couple fall
+Removed Relation: I -- wonder --> be major endorsement come from artificially culturally propped-up couple fall
+Removed Relation: I -- wonder --> be endorsement come from propped-up couple fall
+Removed Relation: major endorsement -- come from --> artificially culturally propped-up couple
+Removed Relation: major mayoral endorsement -- come from --> artificially culturally propped-up couple
+Removed Relation: I -- wonder --> be endorsement come from artificially culturally propped-up couple fall
+Removed Relation: I -- wonder --> be major mayoral endorsement come from couple fall
+Removed Relation: I -- wonder --> be mayoral endorsement come from propped-up couple fall
+Removed Relation: I -- wonder --> be major endorsement come from couple fall
+Removed Relation: I -- wonder --> be major endorsement come from propped-up couple fall
+Removed Relation: I -- wonder --> be endorsement come from culturally propped-up couple fall
+Removed Relation: I -- wonder --> be mayoral endorsement come from artificially culturally propped-up couple fall
+Removed Relation: major mayoral endorsement come from artificially culturally propped-up couple fall -- age over --> next 8 month
+Removed Relation: Alison Steinberg -- host on --> one America News Network
+Removed Relation: NFL -- be --> totally rig
+Removed Relation: Mike Crispi -- be --> candidate
+Removed Relation: numerous post -- be on --> Reddit
+Removed Relation: part -- be in --> Pentagon psychological operation
+Removed Relation: Taylor -- have --> music about 25 % less
+Removed Relation: year -- in --> mayoral election
+Removed Relation: protestor -- be in --> Minnesota
+Removed Relation: we -- vote out in --> November
+Removed Relation: interview -- be with --> caller
+Removed Relation: one another -- be --> just two people in relationship
+Removed Relation: a relationship -- be --> nothing more than that
+Removed Relation: picture -- make --> one another enemy
+Added Relation: complex scenario -- involve --> several figure
+Added Relation: this -- be --> complex
+Added Relation: complex scenario -- involve --> several key figure
+Added Relation: this -- be --> political
+Added Relation: 91 criminal charge -- ²⁶²⁷²⁹ in --> four felony case
+Added Relation: landscape -- be --> complicate
+Added Relation: political scenario -- be --> highly charge
+Added Relation: conversation -- be with --> Bing
+Added Relation: great rivalry -- ago begin at_time --> today
+Added Relation: | -- janet for --> State Representative
+Added Relation: 12 Travis Kelce partner -- be with --> Pfizer
+Added Relation: Pfizer -- with partner be --> flu vaccine ad
+Added Relation: Bob -- about --> YouTube
+Added Relation: date -- odds for --> Super Bowl
+Added Relation: 23 Edmonton election -- result --> coverage
+Added Relation: 26 FDA rule -- have keep vaccine maker from --> advertising vaccine
+Added Relation: 26 FDA rule -- have keep --> vaccine maker
+Added Relation: 28 Janet Protasiewicz -- have campaign on --> democratic issue
+Added Relation: Wisconsin Republicans -- should --> should afraid
+Precision = 0.7205882352941176
+Recall = 0.3828125
+Relation Ratio = 1.8823529411764706

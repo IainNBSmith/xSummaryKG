@@ -1,0 +1,64 @@
+Original Relation: Ste. Anne County -- be in --> Lac
+Original Relation: crime reduction unit -- be --> patrolling Gunn on Jan. 26 on lookout for property crime
+Original Relation: Parkland RCMP -- be --> patrolling Gunn on Jan. 26 on lookout for property crime
+Original Relation: Parkland RCMP -- be --> patrolling Gunn on lookout for property crime
+Original Relation: crime reduction unit -- be --> patrolling Gunn on lookout for property crime
+Original Relation: suspect -- be --> know
+Original Relation: suspect -- be know to --> police
+Original Relation: Kevin Daniel Stolth -- be --> 43
+Original Relation: Kevin Daniel Stolth -- be of --> Gunn
+Original Relation: Tanya Nichol Westoby 44 -- be arrest on --> five warrant from Stony Plain
+Original Relation: Tanya Nichol Westoby 44 -- be --> also arrest
+Original Relation: Tanya Nichol Westoby 44 -- be also arrest on --> five warrant from Stony Plain
+Original Relation: Tanya Nichol Westoby 44 -- be --> charge
+Original Relation: Alberta Court of Justice -- be in --> Stony Plain
+Original Relation: Westoby -- be schedule --> go on Feb. 21
+Original Relation: Westoby -- be --> schedule
+Original Relation: Westoby -- be schedule --> go to Stony Plain court on Feb. 21
+Original Relation: Westoby -- be --> meanwhile release
+Summary Relation: that -- be --> good
+Summary Relation: steal Ford pickup truck -- be find in --> Alberta
+Summary Relation: steal Ford pickup truck -- be find in --> Gunn
+Summary Relation: steal Ford pickup truck -- be --> find
+Summary Relation: steal Ford pickup truck -- be report --> steal from Lac Ste. Anne County in November 2023
+Summary Relation: Ste. Anne County -- be from --> Lac
+Summary Relation: steal Ford pickup truck -- be --> originally report
+Summary Relation: steal Ford pickup truck -- be report --> steal in November 2023
+Summary Relation: steal Ford pickup truck -- steal from --> Lac Ste. Anne County
+Summary Relation: a steal Ford pickup truck -- be originally report --> steal from Lac Ste. Anne County in November 2023
+Summary Relation: steal Ford pickup truck -- steal in --> November 2023
+Summary Relation: steal Ford pickup truck -- be originally report --> steal in November 2023
+Summary Relation: two people -- sleep in --> truck
+Summary Relation: two people -- arrest by --> Parkland RCMP
+Summary Relation: steal property -- violate --> release condition
+Summary Relation: additional charge -- possess --> steal property
+Summary Relation: Kevin Daniel Stolth -- be --> 43
+Summary Relation: Kevin Daniel Stolth -- be from --> Gunn
+Summary Relation: Tanya Nichol Westoby 44 -- be --> charge
+Summary Relation: steal property -- breach --> probation
+Summary Relation: Tanya Nichol Westoby -- be with --> fixed address
+Summary Relation: Tanya Nichol Westoby 44 -- have --> five outstanding warrant
+Summary Relation: Stolth -- await court on --> February 5th
+Summary Relation: Westoby -- be --> release
+Summary Relation: Westoby -- appear on --> February 21st
+Summary Relation: Westoby -- appear in --> court
+Summary Relation: this -- be --> local
+Removed Relation: suspect -- be --> know
+Removed Relation: suspect -- be know to --> police
+Removed Relation: Alberta Court of Justice -- be in --> Stony Plain
+Added Relation: that -- be --> good
+Added Relation: steal Ford pickup truck -- be find in --> Alberta
+Added Relation: steal Ford pickup truck -- be --> find
+Added Relation: steal Ford pickup truck -- be --> originally report
+Added Relation: steal Ford pickup truck -- be report --> steal in November 2023
+Added Relation: steal Ford pickup truck -- steal in --> November 2023
+Added Relation: steal Ford pickup truck -- be originally report --> steal in November 2023
+Added Relation: two people -- sleep in --> truck
+Added Relation: steal property -- violate --> release condition
+Added Relation: additional charge -- possess --> steal property
+Added Relation: steal property -- breach --> probation
+Added Relation: Stolth -- await court on --> February 5th
+Added Relation: this -- be --> local
+Precision = 0.5555555555555556
+Recall = 0.8333333333333334
+Relation Ratio = 0.6666666666666666

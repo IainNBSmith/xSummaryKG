@@ -1,0 +1,240 @@
+Original Relation: presumptive presidential nominee -- get at_time --> November
+Original Relation: presumptive republican nominee -- get --> ready for rematch against Joe Biden
+Original Relation: presumptive republican nominee -- get at_time --> November
+Original Relation: Trump campaign senior adviser Jason Miller ally -- be reportedly get --> ready
+Original Relation: presumptive republican presidential nominee -- get --> ready for rematch against Joe Biden
+Original Relation: Donald Trump -- be reportedly get --> ready
+Original Relation: presumptive presidential nominee -- get --> ready for rematch against Joe Biden
+Original Relation: Trump campaign senior adviser Jason Miller ally -- be get --> ready
+Original Relation: battle -- be with --> Taylor Swift
+Original Relation: presumptive nominee -- get --> ready for rematch against Joe Biden
+Original Relation: Donald Trump -- be get --> ready
+Original Relation: presumptive nominee -- get at_time --> November
+Original Relation: presumptive republican presidential nominee -- get at_time --> November
+Original Relation: 91 criminal charge -- be in --> four felony case
+Original Relation: Rolling Stone -- report as --> talk of Swift
+Original Relation: source -- tell --> Rolling Stone
+Original Relation: Trump -- claim behind --> closed door
+Original Relation: Jason Miller -- be --> Trump
+Original Relation: Joe Biden -- save --> Trump campaign senior adviser Jason Miller
+Original Relation: Swift -- have --> support for Biden
+Original Relation: Swift -- stay out of --> 2024 election
+Original Relation: insider -- have --> have vocal
+Original Relation: insider -- warn --> Swift
+Original Relation: Jeanine Pirro -- be --> host
+Original Relation: Fox News host Jeanine Pirro -- say at_time --> week
+Original Relation: Jeanine Pirro -- be host of --> Fox News
+Original Relation: Joe Biden -- be in --> hole with young people
+Original Relation: Joe Biden -- be in --> hole with people
+Original Relation: Joe Biden -- know --> it
+Original Relation: hole -- be with --> young people
+Original Relation: Joe Biden -- go for --> it
+Original Relation: Joe Biden -- be gon --> Joe Biden think
+Original Relation: Joe Biden -- be gon --> go for it
+Original Relation: Swift -- after --> Travis Kelce
+Original Relation: Swift -- have --> appearance in football world
+Original Relation: Swift 's appearance -- be orchestrate --> try
+Original Relation: Swift 's appearance -- try --> vote for Biden
+Original Relation: Baltimore Ravens -- face --> San Francisco 49ers
+Original Relation: Swift 's appearance -- be orchestrate by --> government
+Original Relation: Baltimore Ravens -- face san francisco 49ers in --> Las Vegas
+Original Relation: Swift 's appearance -- be --> orchestrate
+Original Relation: Baltimore Ravens -- book --> trip to Super Bowl
+Original Relation: Swift 's appearance -- be in --> football world
+Original Relation: Baltimore Ravens -- face san francisco 49ers at_time --> next month
+Original Relation: Travis Kelce -- be boyfriend of --> Swift
+Original Relation: he -- respond to --> post on x about Swift
+Original Relation: he -- respond to --> post about Swift
+Original Relation: race -- throw --> he support behind Trump
+Original Relation: republican race -- endorse --> Donald Trump
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from propped-up couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from propped-up couple fall
+Original Relation: major endorsement -- come --> fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from culturally propped-up couple fall
+Original Relation: major presidential endorsement -- come --> fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from propped-up couple fall
+Original Relation: major presidential endorsement -- come from --> artificially culturally propped-up couple
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from culturally propped-up couple fall
+Original Relation: major endorsement -- come from --> artificially culturally propped-up couple
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from artificially culturally propped-up couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from culturally propped-up couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from artificially culturally propped-up couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from propped-up couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from artificially culturally propped-up couple
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from artificially culturally propped-up couple fall
+Original Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from culturally propped-up couple fall
+Original Relation: major presidential endorsement come from artificially culturally propped-up couple fall -- age over --> next 8 month
+Original Relation: Alison Steinberg -- host on --> one America News Network
+Original Relation: Swift -- would boldly support --> Biden midway
+Original Relation: NFL -- be --> totally rig
+Original Relation: Mike Crispi -- be --> candidate
+Original Relation: Swift -- would support biden midway through --> game
+Original Relation: Mike Crispi -- be --> Republican
+Original Relation: Swift -- would boldly support biden midway through --> game
+Original Relation: Swift -- would support --> Biden midway
+Original Relation: Swift -- come out at --> halftime show
+Original Relation: Swift -- endorse joe biden with --> Kelce
+Original Relation: Swift -- endorse --> Joe Biden
+Original Relation: Swift -- endorse joe biden at --> midfield
+Original Relation: Swift -- play --> part in Pentagon operation
+Original Relation: numerous post -- dedicate --> discuss
+Original Relation: numerous post -- be on --> Reddit
+Original Relation: Swift -- part in --> Pentagon psychological operation
+Original Relation: part -- be in --> Pentagon psychological operation
+Original Relation: Swift -- play --> part in Pentagon psychological operation
+Original Relation: Swift -- part in --> Pentagon operation
+Original Relation: Kelce -- have enrage part for --> Trump campaign senior adviser Jason Miller part
+Original Relation: Trump -- of --> MAGA world
+Original Relation: Kelce -- other anti-vaccine activist --> appear in ad
+Original Relation: Kelce -- other activist --> appear in ad
+Original Relation: Kelce -- have enrage --> part of Trump 's MAGA world
+Original Relation: Swift -- break silence despite --> year stay on issue
+Original Relation: Swift -- break silence despite --> year stay on political issue
+Original Relation: Swift -- break silence in --> 2018
+Original Relation: Trump campaign senior adviser Jason Miller -- vote for --> two Tennessee Democrats
+Original Relation: Swift -- break --> silence
+Original Relation: Trump -- be miff at --> Trump campaign senior adviser Jason Miller public declaration
+Original Relation: Trump -- be --> miff
+Original Relation: Taylor -- have --> music about 25 % less
+Original Relation: Trump campaign senior adviser Jason Miller -- accuse --> commander-in-chief
+Original Relation: Trump campaign senior adviser Jason Miller -- stoke --> fire of white supremacy
+Original Relation: Trump campaign senior adviser Jason Miller -- stoke --> fire of supremacy
+Original Relation: George Floyd protestor -- be in --> Minnesota
+Original Relation: Trump -- tweet threat at --> George Floyd protestor in Minnesota
+Original Relation: year -- in --> presidential election
+Original Relation: Trump campaign senior adviser Jason Miller -- accuse commander-in-chief in --> 2020
+Original Relation: Trump -- tweet --> threat
+Original Relation: we -- vote trump campaign senior adviser jason miller out in --> November
+Original Relation: Swift -- end --> Trump campaign senior adviser Jason Miller message
+Original Relation: we -- vote out --> Trump campaign senior adviser Jason Miller
+Original Relation: we -- vote out in --> November
+Original Relation: Swift -- have --> most-liked post on platform
+Original Relation: message -- become --> Swift 's post on platform
+Original Relation: message -- become --> Swift 's most-liked post on platform
+Original Relation: Trump -- weigh in at_time --> last fall
+Original Relation: Trump -- weigh in on --> relationship between Swift
+Original Relation: Trump -- weigh in during --> interview with Daily caller
+Original Relation: interview -- be with --> caller
+Original Relation: Trump campaign senior adviser Jason Miller -- wish --> best
+Original Relation: heck NFL -- have see boost --> Trump campaign senior adviser Jason Miller start last September
+Original Relation: Trump campaign senior adviser Jason Miller -- attend --> game
+Original Relation: Trump campaign senior adviser Jason Miller -- start at_time --> last September
+Original Relation: heck NFL -- have see --> boost
+Original Relation: heck NFL -- have see boost --> Trump campaign senior adviser Jason Miller start September
+Original Relation: she romance -- be with --> Kelce
+Original Relation: front Office Sports -- report in --> wake of Trump campaign senior adviser Jason Miller romance
+Original Relation: Kelce -- meanwhile tell pat mcafee at_time --> week
+Original Relation: front Office Sports -- be --> just two people in relationship
+Original Relation: a relationship -- be --> nothing more than that
+Original Relation: picture -- make --> front Office Sports enemy
+Summary Relation: complex narrative -- involve --> multiple figure
+Summary Relation: complex narrative -- involve --> multiple public figure
+Summary Relation: complex narrative -- involve --> event
+Summary Relation: this -- be --> complex
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash with Taylor Swift in election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash in election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash with Taylor Swift in upcome election
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash with Taylor Swift in upcome presidential election
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash in upcome presidential election against Joe Biden
+Summary Relation: Donald Trump -- have --> Campaign
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash with Taylor Swift in upcome presidential election
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash in upcome presidential election against Joe Biden
+Summary Relation: potential political clash -- be with --> Taylor Swift
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash with Taylor Swift in upcome election
+Summary Relation: potential political clash -- be in --> upcome presidential election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash in upcome election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash in presidential election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash in presidential election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash in election against Joe Biden
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash with Taylor Swift in presidential election
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash with Taylor Swift in election
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential clash with Taylor Swift in presidential election
+Summary Relation: Donald Trump 's ally -- be prepare for --> potential political clash in upcome election against Joe Biden
+Summary Relation: Trump 's team -- be ready for --> holy war
+Summary Relation: Trump 's team -- be --> reportedly ready
+Summary Relation: Trump -- have --> team
+Summary Relation: Trump 's team -- be reportedly ready for --> holy war
+Summary Relation: Swift -- support --> Democrats
+Summary Relation: Taylor Swift -- have --> political involvement
+Summary Relation: Donald Trump 's potential endorsement -- however be topic of --> discussion
+Summary Relation: Donald Trump 's potential endorsement -- be --> however topic
+Summary Relation: Swift -- stay out of --> 2024 election
+Summary Relation: insider -- have warn --> Swift
+Summary Relation: Donald Trump 's team -- be go to --> Super Bowl
+Summary Relation: Swift 's boyfriend -- be go to --> Super Bowl
+Summary Relation: Swift -- have --> boyfriend
+Summary Relation: Swift -- 's boyfriend be --> Travis Kelce
+Summary Relation: he -- team --> Kansas City Chiefs
+Summary Relation: Travis Kelce -- be boyfriend of --> Swift
+Summary Relation: Americans -- vote for --> Biden
+Summary Relation: Swift -- have --> involvement in football world
+Summary Relation: Swift 's involvement -- be in --> football world
+Summary Relation: Swift -- have --> Past Political Actions
+Summary Relation: Kelce -- criticize trump in --> 2020
+Summary Relation: Swift -- have --> influence
+Summary Relation: Swift -- have --> relationship
+Removed Relation: presumptive presidential nominee -- get at_time --> November
+Removed Relation: presumptive republican nominee -- get at_time --> November
+Removed Relation: presumptive nominee -- get at_time --> November
+Removed Relation: presumptive republican presidential nominee -- get at_time --> November
+Removed Relation: 91 criminal charge -- be in --> four felony case
+Removed Relation: source -- tell --> Rolling Stone
+Removed Relation: Jeanine Pirro -- be --> host
+Removed Relation: Fox News host Jeanine Pirro -- say at_time --> week
+Removed Relation: Jeanine Pirro -- be host of --> Fox News
+Removed Relation: hole -- be with --> young people
+Removed Relation: Baltimore Ravens -- face --> San Francisco 49ers
+Removed Relation: Baltimore Ravens -- face san francisco 49ers in --> Las Vegas
+Removed Relation: Baltimore Ravens -- face san francisco 49ers at_time --> next month
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from propped-up couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from propped-up couple fall
+Removed Relation: major endorsement -- come --> fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from culturally propped-up couple fall
+Removed Relation: major presidential endorsement -- come --> fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from propped-up couple fall
+Removed Relation: major presidential endorsement -- come from --> artificially culturally propped-up couple
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from culturally propped-up couple fall
+Removed Relation: major endorsement -- come from --> artificially culturally propped-up couple
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from artificially culturally propped-up couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from culturally propped-up couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from artificially culturally propped-up couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from propped-up couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be presidential endorsement come from couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major presidential endorsement come from artificially culturally propped-up couple
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be major endorsement come from artificially culturally propped-up couple fall
+Removed Relation: Trump campaign senior adviser Jason Miller -- wonder --> be endorsement come from culturally propped-up couple fall
+Removed Relation: major presidential endorsement come from artificially culturally propped-up couple fall -- age over --> next 8 month
+Removed Relation: Alison Steinberg -- host on --> one America News Network
+Removed Relation: NFL -- be --> totally rig
+Removed Relation: Mike Crispi -- be --> candidate
+Removed Relation: Mike Crispi -- be --> Republican
+Removed Relation: numerous post -- dedicate --> discuss
+Removed Relation: numerous post -- be on --> Reddit
+Removed Relation: part -- be in --> Pentagon psychological operation
+Removed Relation: Kelce -- other activist --> appear in ad
+Removed Relation: George Floyd protestor -- be in --> Minnesota
+Removed Relation: we -- vote trump campaign senior adviser jason miller out in --> November
+Removed Relation: interview -- be with --> caller
+Removed Relation: heck NFL -- have see --> boost
+Removed Relation: she romance -- be with --> Kelce
+Removed Relation: Kelce -- meanwhile tell pat mcafee at_time --> week
+Removed Relation: picture -- make --> front Office Sports enemy
+Added Relation: complex narrative -- involve --> multiple figure
+Added Relation: complex narrative -- involve --> multiple public figure
+Added Relation: complex narrative -- involve --> event
+Added Relation: this -- be --> complex
+Added Relation: Donald Trump 's potential endorsement -- however be topic of --> discussion
+Precision = 0.8913043478260869
+Recall = 0.29927007299270075
+Relation Ratio = 2.9782608695652173

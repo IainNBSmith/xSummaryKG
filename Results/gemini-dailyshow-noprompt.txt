@@ -1,0 +1,90 @@
+Original Relation: Jon Stewart -- be come after --> nearly decade
+Original Relation: Jon Stewart -- be come back after --> nearly decade
+Original Relation: Jon Stewart -- be come back to --> Daily Show
+Original Relation: Jon Stewart -- be come to --> Daily Show
+Original Relation: Paramount Global -- announce at_time --> Wednesday
+Original Relation: Stewart -- will remain as --> part-time host
+Original Relation: Stewart -- will remain with --> rotate host throughout rest of week
+Original Relation: Stewart -- will remain throughout --> 2024 election cycle
+Original Relation: Jon Stewart -- will serve for --> episode
+Original Relation: Jon Stewart -- will also serve for --> episode
+Original Relation: Stewart -- be give monday slot accord to --> network
+Original Relation: monday -- be day for --> show during week
+Original Relation: monday -- be most-watched day for --> show during week
+Original Relation: Stewart -- be give monday slot --> most-watched day for show during week
+Original Relation: Chris McCarthy -- president of --> Paramount Media Networks
+Original Relation: empty rhetoric -- provide --> much-needed clarity
+Original Relation: empty rhetoric -- provide clarity with --> Jon Stewart brilliant wit
+Original Relation: empty rhetoric -- provide clarity with --> Jon Stewart wit
+Original Relation: perfect person -- be in --> we age of staggering hypocrisy
+Original Relation: Jon -- puncture --> empty rhetoric
+Original Relation: segment -- frequently go --> viral
+Original Relation: segment -- frequently go for --> day
+Original Relation: interview clip -- frequently go --> interview clip and segment air
+Original Relation: Stewart -- headline --> satirical talk show
+Original Relation: show -- win --> 24 emmy under Stewart
+Original Relation: Daily Show -- have --> about 1.3 million viewer on average
+Original Relation: Stewart -- during --> last year
+Original Relation: Stewart -- pursue --> career opportunity include stint with Jon Stewart social commentary talk
+Original Relation: Problem -- be with --> Jon Stewart
+Original Relation: stint -- be with --> he own social commentary talk
+Original Relation: Jon Stewart -- tear over --> 9/11 victim fund
+Original Relation: Jon Stewart -- tear into --> Congress
+Original Relation: viewer -- fewer --> about 70 percent
+Original Relation: Noah -- have viewer during --> Jon Stewart season
+Original Relation: Noah -- have --> about 70 percent fewer viewer than Stewart
+Original Relation: Noah -- have viewer during --> Jon Stewart last season
+Original Relation: Comedy Central -- fill --> void include charlamagne tha God
+Original Relation: Hasan Minhaj -- be --> comedian
+Original Relation: Stewart -- headline --> show
+Original Relation: landscape -- be --> much different
+Original Relation: late-night comedy show -- be generally struggle with --> revenue
+Original Relation: late-night comedy show -- be struggle with --> revenue
+Summary Relation: that -- be --> right
+Summary Relation: Jon Stewart -- be make --> much-anticipated return to Daily Show
+Summary Relation: other host -- take over --> rest of week
+Summary Relation: other host -- rest of --> week
+Summary Relation: he -- will --> will show 's executive producer until 2025
+Summary Relation: show -- have --> executive producer
+Summary Relation: he -- will --> will also show 's executive producer until 2025
+Summary Relation: division -- insanity of --> upcome election with Trevor Noah Stewart 's successor signature wit
+Summary Relation: Stewart -- be --> apparently consider
+Summary Relation: upcome election -- be with --> he signature wit
+Summary Relation: Stewart -- make --> Daily Show phenomenon
+Summary Relation: numerous award -- launch --> career of other comedian
+Summary Relation: launch -- career of --> other comedian
+Summary Relation: Stewart -- make --> Daily Show cultural phenomenon
+Summary Relation: numerous award -- launch --> career of comedian
+Summary Relation: Trevor Noah -- leave in --> December 2022
+Summary Relation: Stewart -- have --> successor
+Summary Relation: show -- have cycle since --> then
+Summary Relation: show -- have cycle through --> guest host
+Summary Relation: Stewart -- since --> era
+Summary Relation: return -- be deal for --> Daily Show of Jon Stewart 's take on event
+Summary Relation: return -- be deal for --> Daily Show of Jon Stewart 's take on current event
+Summary Relation: return -- be big deal for --> Daily Show of Jon Stewart 's comedic take on event
+Summary Relation: Jon Stewart -- of --> comedic take on current event
+Summary Relation: return -- be big deal for --> Daily Show of Jon Stewart 's take on current event
+Summary Relation: return -- be --> big deal
+Summary Relation: return -- be deal for --> Daily Show of Jon Stewart 's comedic take on event
+Summary Relation: return -- be big deal for --> Daily Show of Jon Stewart 's take on event
+Summary Relation: he -- tackle --> political climate of 2024
+Summary Relation: much-anticipated return to Daily Show -- will --> will interesting
+Summary Relation: he -- political climate of --> 2024
+Removed Relation: Paramount Global -- announce at_time --> Wednesday
+Removed Relation: Chris McCarthy -- president of --> Paramount Media Networks
+Removed Relation: perfect person -- be in --> we age of staggering hypocrisy
+Removed Relation: segment -- frequently go --> viral
+Removed Relation: segment -- frequently go for --> day
+Removed Relation: interview clip -- frequently go --> interview clip and segment air
+Removed Relation: viewer -- fewer --> about 70 percent
+Removed Relation: Comedy Central -- fill --> void include charlamagne tha God
+Removed Relation: landscape -- be --> much different
+Added Relation: that -- be --> right
+Added Relation: upcome election -- be with --> he signature wit
+Added Relation: launch -- career of --> other comedian
+Added Relation: return -- be --> big deal
+Added Relation: much-anticipated return to Daily Show -- will --> will interesting
+Precision = 0.8387096774193549
+Recall = 0.6190476190476191
+Relation Ratio = 1.3548387096774193

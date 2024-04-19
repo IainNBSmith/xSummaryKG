@@ -1,0 +1,173 @@
+Original Relation: Thursday -- on p.m. be --> 6 p.m. on
+Original Relation: Saiker -- have --> Acres
+Original Relation: 3 p.m. on -- p.m. on --> Sunday
+Original Relation: Saiker 's Acres -- host --> World 's Longest hockey game Juniors
+Original Relation: Brent Saik -- organizer of --> World 's Longest hockey game
+Original Relation: team -- cure --> cancer cure
+Original Relation: University of Alberta -- of university be --> 16
+Original Relation: Kevin Lowe -- be on --> hand for ceremonial puck drop on Thursday
+Original Relation: Craig MacTavish -- be alumnus of --> Oilers
+Original Relation: Oilers alumnus Craig MacTavish -- be on --> hand for puck drop on Thursday
+Original Relation: Oilers alumnus Craig MacTavish -- be on --> hand for ceremonial puck drop on Thursday
+Original Relation: Kevin Lowe -- be on --> hand for puck drop on Thursday
+Original Relation: battle -- unite --> community
+Original Relation: kid -- involve at --> grassroot
+Original Relation: the battle against cancer -- be --> so prominent
+Original Relation: world -- make --> headway
+Original Relation: Xavier Wujcik -- play --> seven shift
+Original Relation: Xavier Wujcik -- play --> seven three-hour shift
+Original Relation: Xavier Wujcik -- slot in --> 140 goal
+Original Relation: Xavier Wujcik -- forward with --> Sherwood Park Athletics ' u13 aa jet
+Original Relation: Wujcik -- slow down near --> end
+Original Relation: it -- see people with --> it
+Original Relation: it -- be --> tough
+Original Relation: it -- see --> people
+Original Relation: money -- be --> Raising just amazing
+Original Relation: money -- be --> Raising amazing
+Original Relation: Sherwood Park -- be story of --> Ben Stelter
+Original Relation: inspire -- raise --> money
+Original Relation: support kid -- be --> impact
+Original Relation: Ben Stelter -- by --> story
+Original Relation: Ben Stelter -- 's story be --> Landon Ternovatsky
+Original Relation: inspire -- be --> more than happy
+Original Relation: support kid -- be impact by --> illness
+Original Relation: Landon Ternovatsky -- be --> 12
+Original Relation: Sherwood Park -- have --> Landon Ternovatsky
+Original Relation: Ben Stelter 's family -- have --> have also touch by cancer
+Original Relation: Ben Stelter 's family -- have --> have touch by cancer
+Original Relation: organizer -- celebrate --> Reimer birthday
+Original Relation: organizer -- celebrate --> Reimer 12th birthday
+Original Relation: Reimer -- say --> add
+Original Relation: Reimer -- surround by --> kid
+Original Relation: 2,299 goal -- be score by --> day 's end on Sunday
+Original Relation: 2,299 goal -- be --> score
+Original Relation: event -- raise --> 400,000-plus
+Original Relation: Saik -- note as --> smoke from firework cling in air on Sunday
+Original Relation: Saik -- note as --> smoke cling in air on Sunday
+Original Relation: Saik -- note as --> smoke from conclude firework cling in air on Sunday
+Original Relation: Saik -- note as --> smoke cling on Sunday
+Original Relation: Saik -- note as --> smoke from firework cling on Sunday
+Original Relation: Saik -- note as --> smoke from conclude firework cling on Sunday
+Original Relation: 400,000 -- be --> lofty
+Original Relation: player -- take --> part
+Original Relation: player -- take part in --> March 2023
+Original Relation: this year -- at --> event
+Original Relation: same level -- remain at --> year 's event
+Original Relation: kid -- have --> life
+Original Relation: kid -- have --> life
+Original Relation: Strathcona Warrior -- with --> Tier 3 u13 team
+Original Relation: Jesse -- be son of --> Saik
+Original Relation: Saik -- have --> son
+Original Relation: Saik -- 's son be --> Jesse
+Original Relation: World 's Longest hockey Game -- host since --> 2003
+Original Relation: World 's Longest hockey Game -- host at --> Saiker 's Acres
+Original Relation: Saiker 's Acres -- have --> something go for over 20 year
+Original Relation: Saiker 's Acres -- keep --> event alive
+Original Relation: year 's event -- create --> year 's event own magic
+Original Relation: we community -- thankfully love --> Saiker 's Acres
+Original Relation: preparation -- host --> World 's Longest Baseball Game
+Original Relation: preparation -- be already come together for --> Saiker 's acre
+Original Relation: preparation -- be come together for --> Saiker 's acre
+Original Relation: preparation -- be come for --> Saiker 's acre
+Original Relation: preparation -- be already come for --> Saiker 's acre
+Original Relation: adult version -- be --> set
+Original Relation: adult version -- return in --> February 2025
+Original Relation: adult version -- be set --> return in February 2025
+Original Relation: the organizer -- start at_time --> tomorrow
+Original Relation: the organizer -- start --> training
+Summary Relation: Saiker -- have --> Acres
+Summary Relation: Saiker 's Acres -- hub of --> activity
+Summary Relation: Saiker 's Acres -- host --> World 's Longest hockey game Juniors
+Summary Relation: Team cure -- symbolize --> ongoing battle against cancer
+Summary Relation: team -- symbolize --> ongoing battle against cancer
+Summary Relation: proceeds -- support --> pediatric trial
+Summary Relation: proceeds -- support trial through --> University of Alberta
+Summary Relation: proceeds -- support --> pediatric clinical trial
+Summary Relation: 45 youth player aged -- participate in --> unforgettable game
+Summary Relation: Craig MacTavish -- be alumnus of --> Oilers
+Summary Relation: Craig MacTavish -- be of --> Oilers
+Summary Relation: Kevin Lowe -- kick off game with --> ceremonial puck drop on Thursday
+Summary Relation: event -- see --> presence
+Summary Relation: Kevin Lowe -- kick off --> game
+Summary Relation: community -- have --> unity
+Summary Relation: cancer impact -- everyone --> fight against community 's unity
+Summary Relation: cancer impact -- fight against --> the community 's unity
+Summary Relation: cancer impact -- praise --> community 's unity
+Summary Relation: seven shift -- score --> 140 goal
+Summary Relation: seven three-hour shift -- score --> 140 goal
+Summary Relation: he -- feel --> fatigue towards end
+Summary Relation: other player -- also share --> personal connection to cancer
+Summary Relation: other young player -- also share --> personal connection to cancer
+Summary Relation: impressive goal -- be --> raise
+Summary Relation: impressive 2,299 goal -- be --> raise
+Summary Relation: impressive goal -- be score by --> end of event
+Summary Relation: impressive 2,299 goal -- be score by --> end of event
+Summary Relation: impressive 2,299 goal -- be --> score
+Summary Relation: impressive goal -- be --> score
+Summary Relation: child -- have --> effort
+Summary Relation: Brent Saik -- commend --> child 's effort
+Summary Relation: success -- mirror --> passion see in inaugural Kids World 's Longest hockey game
+Summary Relation: indicate -- sustained commitment to --> cause
+Summary Relation: success -- mirror --> passion see in Kids World 's Longest hockey game
+Summary Relation: success -- indicate --> sustained commitment to cause
+Summary Relation: Kids World 's Longest hockey game -- be in --> March 2023
+Summary Relation: Jesse -- be son of --> Saik
+Summary Relation: Saik -- have --> son
+Summary Relation: Saik -- 's son be --> Jesse
+Summary Relation: World 's Longest hockey game -- have raise --> over $ 7.4 million for cancer research
+Summary Relation: its inception -- be in --> 2003
+Summary Relation: World 's Longest hockey game -- showcase --> enduring impact of community-driven initiative
+Summary Relation: Saiker -- at --> Acres
+Summary Relation: World 's Longest hockey game -- showcase --> enduring impact of initiative
+Summary Relation: preparation -- be --> underway
+Summary Relation: adult version -- be schedule --> return in February 2025
+Summary Relation: adult version -- be --> schedule
+Summary Relation: Saiker -- for --> acre host in September
+Summary Relation: World -- have --> Longest Baseball Game
+Summary Relation: adult version -- return in --> February 2025
+Summary Relation: preparation -- be underway --> schedule
+Summary Relation: Brent Saik -- humorously remark --> need
+Removed Relation: 3 p.m. on -- p.m. on --> Sunday
+Removed Relation: University of Alberta -- of university be --> 16
+Removed Relation: Kevin Lowe -- be on --> hand for ceremonial puck drop on Thursday
+Removed Relation: Kevin Lowe -- be on --> hand for puck drop on Thursday
+Removed Relation: kid -- involve at --> grassroot
+Removed Relation: the battle against cancer -- be --> so prominent
+Removed Relation: Xavier Wujcik -- play --> seven shift
+Removed Relation: Xavier Wujcik -- play --> seven three-hour shift
+Removed Relation: Xavier Wujcik -- slot in --> 140 goal
+Removed Relation: money -- be --> Raising just amazing
+Removed Relation: money -- be --> Raising amazing
+Removed Relation: Sherwood Park -- be story of --> Ben Stelter
+Removed Relation: inspire -- raise --> money
+Removed Relation: Ben Stelter -- by --> story
+Removed Relation: Ben Stelter -- 's story be --> Landon Ternovatsky
+Removed Relation: inspire -- be --> more than happy
+Removed Relation: support kid -- be impact by --> illness
+Removed Relation: Landon Ternovatsky -- be --> 12
+Removed Relation: Sherwood Park -- have --> Landon Ternovatsky
+Removed Relation: Ben Stelter 's family -- have --> have also touch by cancer
+Removed Relation: Ben Stelter 's family -- have --> have touch by cancer
+Removed Relation: organizer -- celebrate --> Reimer birthday
+Removed Relation: organizer -- celebrate --> Reimer 12th birthday
+Removed Relation: Reimer -- say --> add
+Removed Relation: Reimer -- surround by --> kid
+Removed Relation: 400,000 -- be --> lofty
+Removed Relation: kid -- have --> life
+Removed Relation: kid -- have --> life
+Removed Relation: Strathcona Warrior -- with --> Tier 3 u13 team
+Removed Relation: year 's event -- create --> year 's event own magic
+Removed Relation: the organizer -- start at_time --> tomorrow
+Removed Relation: the organizer -- start --> training
+Added Relation: proceeds -- support --> pediatric trial
+Added Relation: proceeds -- support --> pediatric clinical trial
+Added Relation: 45 youth player aged -- participate in --> unforgettable game
+Added Relation: seven shift -- score --> 140 goal
+Added Relation: seven three-hour shift -- score --> 140 goal
+Added Relation: impressive goal -- be --> raise
+Added Relation: child -- have --> effort
+Added Relation: indicate -- sustained commitment to --> cause
+Added Relation: Kids World 's Longest hockey game -- be in --> March 2023
+Precision = 0.8269230769230769
+Recall = 0.5584415584415584
+Relation Ratio = 1.4807692307692308
